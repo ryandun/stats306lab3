@@ -1,4 +1,4 @@
-# Lab 3
+# STATS 306, Lab 3
 
 **GSI:** Ryan Duncan (ryandun@umich.edu)\
 **Lab day/time:** Tuesdays, 10-11:30 am (link here)\
