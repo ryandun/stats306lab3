@@ -9,4 +9,4 @@
 
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
-**Jan 26** | Link | Link | Link
+**Jan 26** |  |  | 
