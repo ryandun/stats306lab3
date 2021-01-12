@@ -8,4 +8,4 @@
 ## Lab Schedule
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
-Jan 19 | --- |  --- | ---  
+Jan 19 | Link | Link | Link
