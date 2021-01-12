@@ -4,7 +4,7 @@
 **Lab day/time:** Tuesdays, 10-11:30 am (link here)\
 **Office hours day/time:** TBD (link here)
 
-# Lab Schedule
+# Lab Schedule and Materials
 
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
