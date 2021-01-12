@@ -1,4 +1,4 @@
-# Important Lab Info
+# Important Info
 
 **GSI:** Ryan Duncan\
 **Email:** ryandun@umich.edu\
