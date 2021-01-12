@@ -1,13 +1,11 @@
 # STATS 306 Lab 3, Winter 2021
 
 Welcome to Ryan's lab page! Here, you'll find all materials for our weekly lab.
-
 # Important Info
 
 **GSI:** Ryan Duncan (ryandun@umich.edu)\
 **Lab day/time:** Tuesdays, 10-11:30 am (link here)\
 **Office hours day/time:** TBD (link here)
-
 
 # Lab Schedule
 
