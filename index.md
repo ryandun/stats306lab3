@@ -8,4 +8,4 @@
 
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
-**Jan 26** |  |  | 
+**January 26** |  |  | 
