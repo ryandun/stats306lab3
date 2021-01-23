@@ -8,4 +8,4 @@
 
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
-**January 26** | (https://github.com/ryandun/stats306lab3/blob/gh-pages/stats306_lab1_empty.ipynb) |  | 
+**January 26** | https://github.com/ryandun/stats306lab3/blob/gh-pages/stats306_lab1_empty.ipynb |  | 
