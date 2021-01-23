@@ -8,4 +8,4 @@
 
 Date | Lab | Solution | Recording
 --- | --- | --- | ---
-**January 26** | [Lab 1]<a href="stats306_lab1_empty.ipynb">Download File</a> |  | 
+**January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> |  | 
