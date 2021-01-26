@@ -5,7 +5,7 @@
 **Office hours day/time:** Tuesdays, 7-8:30 pm; Thursdays, 9-10:30 am - [Zoom link](https://umich.zoom.us/j/97444539797?pwd=ZWJ5QVFzY2k1L2JvbTBBK1NWVS9rQT09)
 
 # Lab Schedule and Materials
-
-Date | Lab | Solution | Recording
---- | --- | --- | ---
-**January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> |  | 
+**All lab recordings can be found here:** [Box link](https://umich.box.com/s/sj376okeyvvqbs4htjtp3i48dj3avnqv)
+Date | Lab | Solution
+--- | --- | ---
+**January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> | 
