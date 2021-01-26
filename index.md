@@ -6,6 +6,7 @@
 
 # Lab Schedule and Materials
 **All lab recordings can be found here:** [Box link](https://umich.box.com/s/sj376okeyvvqbs4htjtp3i48dj3avnqv)
+
 Date | Lab | Solution
 --- | --- | ---
 **January 26** | <a href="stats306_lab1_empty.ipynb">Download Lab 1</a> | <a href="stats306_lab1_solution.ipynb">Download Lab 1 Solution</a> 
