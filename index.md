@@ -17,4 +17,4 @@ Date | Lab | Solution
 **February 23** | No lab - Well-being break | 
 **March 2** | <a href="stats306_review_empty.ipynb">Download Lab 5 - Midterm Review</a> | <a href="stats306_review_solution.ipynb">Download Lab 5 - Midterm Review Solution</a>
 **March 9** | No lab - Midterm week | 
-**March 16** | <a href="stats306_lab6_empty.ipynb">Download Lab 6</a> |
+**March 16** | <a href="stats306_lab6_empty.ipynb">Download Lab 6</a> | <a href="stats306_lab6_solution.ipynb">Download Lab 6 Solution</a> 
