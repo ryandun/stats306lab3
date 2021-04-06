@@ -20,3 +20,4 @@ Date | Lab | Solution
 **March 16** | <a href="stats306_lab6_empty.ipynb">Download Lab 6</a> | <a href="stats306_lab6_solution.ipynb">Download Lab 6 Solution</a> 
 **March 23** | <a href="stats306_lab7_empty.ipynb">Download Lab 7</a> | <a href="stats306_lab7_solution.ipynb">Download Lab 7 Solution</a> 
 **March 30** | <a href="stats306_lab8_empty.ipynb">Download Lab 8</a> | <a href="stats306_lab8_solution.ipynb">Download Lab 8 Solution</a> 
+**April 6** | <a href="stats306_lab9_empty.ipynb">Download Lab 9</a> | <a href="stats306_lab9_solution.ipynb">Download Lab 9 Solution</a> 
